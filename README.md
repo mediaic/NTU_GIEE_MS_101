@@ -69,8 +69,8 @@
     2. 在老師將[**口試紀錄**](./doc/defense_record.docx)、[**口試委員審定書**](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)、[**學位論文考試評分表**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_thesis%20grade.doc)、[**學位考試紀錄表**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_oral%20record.doc)、**口試委員審查費領據**交給所辦、所辦確認沒問題後會請**所長**簽名，簽名完後的[**口試委員審定書**](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)需放在終版論文裡。
     3. 印製**紅底**燙金之**精裝版**論文終稿（圖書館需兩本，指導教授一本，實驗室一本，自己一本，因此最少需印**五本**）
     4. 繳交兩本畢業論文至台大總圖
-    4. 完成[實驗室畢業生檢查清單](./doc/mediaic_check_list.docx)後交與老師
-    5. 完成[電子所畢業生離校手續單](http://cc.ee.ntu.edu.tw/~giee/announce/download/g21_leave.doc)後交至所辦（其中指導教授之簽名需在完成上述第四項條件後才能獲得）
+    5. 完成[**實驗室畢業生檢查清單**](./doc/mediaic_check_list.docx)後交與老師
+    6. 完成[**電子所畢業生離校手續單**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g21_leave.doc)後交至所辦（其中指導教授之簽名需在完成上述之[實驗室畢業生檢查清單](./doc/mediaic_check_list.docx)後才能獲得）
     
 ### 離校手續
 * 前往myntu之[畢業生離校手續查詢](https://my.ntu.edu.tw/StudLeave/Login.aspx)確認所有**綠色勾勾**皆已亮起（除了第十三項之外，請見下圖）
