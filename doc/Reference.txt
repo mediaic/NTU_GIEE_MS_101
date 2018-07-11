@@ -1,0 +1,197 @@
+E. Lachat, H. Macher, M. Mittet, T. Landes, and P. Grussenmeyer, “First Experiences with Kinect V2 Sensor for Close Range 3d Modelling,” The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Archives), vol. 40, no. 5, p. 93, 2015.
+R. Mur-Artal and J. D. Tard´os, “ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras,” IEEE Transactions on Robotics (T-RO), vol. 33, no. 5, pp. 1255–1262, 2017.
+H.-Y. Tseng, P.-C. Wu, M.-H. Yang, and S.-Y. Chien, “Direct 3D Pose Estimation of a Planar Target,” in Proceedings of IEEE Winter Conference on Applications of Computer Vision (WACV), 2016, pp. 1–9.
+S. Gauglitz, T. H¨ollerer, and M. Turk, “Evaluation of Interest Point Detectors and Feature Descriptors for Visual Tracking,” International Journal of Computer Vision (IJCV), vol. 94, no. 3, pp. 335–360, 2011.
+S. Hinterstoisser, V. Lepetit, S. Ilic, S. Holzer, G. Bradski, K. Konolige, and N. Navab, “Model Based Training, Detection and Pose Estimation of Texture-Less 3D Objects in Heavily Cluttered Scenes,” in Proceedings of Asian Conference on Computer Vision (ACCV), 2012, pp. 548–562.
+V. Lepetit, J. Pilet, and P. Fua, “Point matching as a classification problem for fast and robust object pose estimation,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), vol. 2, 2004, pp. II–244–II–250.
+A. Collet, D. Berenson, S. S. Srinivasa, and D. Ferguson, “Object Recognition and Full Pose Registration from a Single Image for Robotic Manipulation,” in Proceedings of IEEE International Conference on Robotics and Automation (ICRA), 2009, pp. 48–55.
+J. Tang, S. Miller, A. Singh, and P. Abbeel, “A Textured Object Recognition Pipeline for Color and Depth Image Data,” in Proceedings of IEEE International Conference on Robotics and Automation (ICRA), 2012, pp. 3467–3474.
+D. G. Lowe, “Distinctive Image Features from Scale-Invariant Keypoints,” International Journal of Computer Vision (IJCV), vol. 60, no. 2, 2004.
+G. Yu and J.-M. Morel, “ASIFT: An Algorithm for Fully Affine Invariant Comparison,” Image Processing On Line (IPOL), vol. 1, pp. 11–38, 2011.
+M. A. Fischler and R. C. Bolles, “RANdom SAmple Consensus: A Paradigm for Model Fitting With applications to Image Analysis and Automated Cartography,” Communications of the ACM (CACM), vol. 24, no. 6, pp. 381–395, 1981.
+V. Lepetit, F. Moreno-Noguer, and P. Fua, “EPNP: An Accurate O(n) Solution to the PnP Problem,” International Journal of Computer Vision (IJCV), vol. 81, no. 2, pp. 155–166, 2009.
+Y. Zheng, Y. Kuang, S. Sugimoto, K. Astrom, and M. Okutomi, “Revisiting the PnP Problem: A Fast, General and Optimal Solution,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2013, pp. 2344–2351.
+A. Tejani, D. Tang, R. Kouskouridas, and T.-K. Kim, “Latent-Class Hough Forests for Object Detection and Pose Estimation,” in Proceedings of European Conference on Computer Vision (ECCV), 2014, pp. 462–477.
+E. Brachmann, A. Krull, F. Michel, S. Gumhold, J. Shotton, and C. Rother, “Learning 6D Object Pose Estimation Using 3D Object Coordinates,” in Proceedings of European Conference on Computer Vision (ECCV), 2014, pp. 536–551.
+E. Brachmann, F. Michel, A. Krull, M. Y. Yang, S. Gumhold, and C. Rother, “Uncertainty-Driven 6D Pose Estimation of Objects and Scenes from a Single RGB Image,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 3364–3372.
+W. Kehl, F. Milletari, F. Tombari, S. Ilic, and N. Navab, “Deep Learning of Local RGB-D Patches for 3D Object Detection and 6D Pose Estimation,” in Proceedings of European Conference on Computer Vision (ECCV), 2016, pp. 205–220.
+Y. Park, V. Lepetit, and W.Woo, “Texture-Less Object Tracking with Online Training using An RGB-D Camera,” in Proceedings of IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2011, pp. 121–126.
+V. A. Prisacariu and I. D. Reid, “PWP3D: Real-Time Segmentation and Tracking of 3D Objects,” International Journal of Computer Vision (IJCV), vol. 98, no. 3, pp. 335–354, 2012.
+C. Choi and H. I. Christensen, “RGB-D Object Tracking: A Particle Filter Approach on GPU,” in Proceedings of IEEE International Conference on Intelligent Robots and Systems (IROS), 2013, pp. 121–126.
+H. Tjaden, U. Schwanecke, and E. Sch¨omer, “Real-Time Monocular Segmentation and Pose Tracking of Multiple Objects,” in Proceedings of European Conference on Computer Vision (ECCV), 2016, pp. 423–438.
+E. Marchand, H. Uchiyama, and F. Spindler, “Pose Estimation for Augmented Reality: A Hands-On Survey,” IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 22, no. 12, pp. 2633–2651, 2016.
+M. Billinghurst, A. Clark, G. Lee et al., “A Survey of Augmented Reality,” Foundations and Trends® in Human-Computer Interaction, vol. 8, no. 2-3, pp. 73–272, 2015.
+C. Choi and H. I. Christensen, “RGB-D Object Tracking: A Particle Filter Approach on GPU,” in Proceedings of IEEE International Conference on Intelligent Robots and Systems (IROS), 2013, pp. 1084–1091.
+A. Krull, F. Michel, E. Brachmann, S. Gumhold, S. Ihrke, and C. Rother, “6- DOF Model Based Tracking via Object Coordinate Regression,” in Proceedings of Asian Conference on Computer Vision (ACCV), 2014, pp. 384–399.
+C. Rennie, R. Shome, K. E. Bekris, and A. F. De Souza, “A Dataset for Improved RGBD-based Object Detection and Pose Estimation for Warehouse Pick-and-Place,” IEEE Robotics and Automation Letters (RA-L), vol. 1, no. 2, pp. 1179–1185, 2016.
+H. Durrant-Whyte and T. Bailey, “Simultaneous Localization and Mapping: Part I,” IEEE Robotics and Automation Magazine (RAM), vol. 13, no. 2, pp. 99–110, 2006.
+T. Bailey and H. Durrant-Whyte, “Simultaneous Localization and Mapping: Part II,” IEEE Robotics and Automation Magazine (RAM), vol. 13, no. 3, pp. 108–117, 2006.
+R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, “ORB-SLAM: A Versatile and Accurate Monocular SLAM System,” IEEE Transactions on Robotics (T-RO), vol. 31, no. 5, pp. 1147–1163, 2015.
+A. J. Davison, I. D. Reid, N. D. Molton, and O. Stasse, “MonoSLAM: Real-Time Single Camera SLAM,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 29, no. 6, pp. 1052–1067, 2007.
+G. Klein and D. Murray, “Parallel Tracking and Mapping for Small AR Workspaces,” in Proceedings of IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2007, pp. 225–234.
+R. A. Newcombe, S. J. Lovegrove, and A. J. Davison, “Dtam: Dense tracking and mapping in real-time,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2011, pp. 2320–2327.
+J. Engel, T. Sch¨ops, and D. Cremers, “LSD-SLAM: Large-Scale Direct Monocular SLAM,” in Proceedings of European Conference on Computer Vision (ECCV), 2014, pp. 834–849.
+D. Nist´er, O. Naroditsky, and J. Bergen, “Visual Odometry,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), vol. 1, 2004, pp. 652–659.
+D. Scaramuzza and F. Fraundorfer, “Visual Odometry [Tutorial],” IEEE Robotics and Automation Magazine (RAM), vol. 18, no. 4, pp. 80–92, 2011.
+C. Forster, M. Pizzoli, and D. Scaramuzza, “SVO: Fast Semi-direct Monocular Visual Odometry,” in Proceedings of IEEE International Conference on Robotics and Automation (ICRA), 2014, pp. 15–22.
+K. Yousif, A. Bab-Hadiashar, and R. Hoseinnezhad, “An Overview to Visual Odometry and Visual SLAM: Applications to Mobile Robotics,” Intelligent Industrial Systems, vol. 1, no. 4, pp. 289–311, 2015.
+J. Engel, V. Koltun, and D. Cremers, “Direct Sparse Odometry,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 40, no. 3, pp. 611–625, 2018.
+H. C. Longuet-Higgins, “A Computer Algorithm for Reconstructing a Scene from Two Projections,” Nature, vol. 293, no. 5828, pp. 133–135, 1981.
+S. Agarwal, Y. Furukawa, N. Snavely, I. Simon, B. Curless, S. M. Seitz, and R. Szeliski, “Building Rome in a Day,” Communications of the ACM (CACM), vol. 54, no. 10, pp. 105–112, 2011.
+O. O¨ zyes¸il, V. Voroninski, R. Basri, and A. Singer, “A Survey of Structure from Motion,” Acta Numerica, vol. 26, pp. 305–364, 2017.
+S. Agarwal, N. Snavely, S. M. Seitz, and R. Szeliski, “Bundle Adjustment in the Large,” in Proceedings of European Conference on Computer Vision (ECCV), 2010, pp. 29–42.
+N. Snavely, S. M. Seitz, and R. Szeliski, “Skeletal Graphs for Efficient Structure from Motion,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), vol. 1, 2008, p. 2.
+M. Havlena, A. Torii, and T. Pajdla, “Efficient Structure from Motion by Graph Optimization,” in Proceedings of European Conference on Computer Vision (ECCV), 2010, pp. 100–113.
+A. Irschara, C. Zach, J.-M. Frahm, and H. Bischof, “From Structure-from- Motion Point Clouds to Fast Location Recognition,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2009, pp. 2599–2606.
+T. Sattler, B. Leibe, and L. Kobbelt, “Improving Image-Based Localization by Active Correspondence Search,” in Proceedings of European Conference on Computer Vision (ECCV), 2012, pp. 752–765.
+X. Sun, Y. Xie, P. Luo, and L. Wang, “A Dataset for Benchmarking Image-based Localization,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 7436–7444.
+G. Schindler, M. Brown, and R. Szeliski, “City-scale location recognition,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2007, pp. 1–7.
+N. Snavely, S. M. Seitz, and R. Szeliski, “Photo Tourism: Exploring Photo Collections in 3D,” in ACM Transactions on Graphics (TOG), vol. 25, no. 3, 2006, pp. 835–846.
+Y. Li, N. Snavely, D. Huttenlocher, and P. Fua, “Worldwide Pose Estimation Using 3D Point Clouds,” in Proceedings of European Conference on Computer Vision (ECCV), 2012, pp. 15–29.
+Z. Zhang, “A flexible new technique for camera calibration,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 22, no. 11, pp. 1330–1334, 2000.
+C.-K. Liang, L.-W. Chang, and H. H. Chen, “Analysis and Compensation of Rolling Shutter Effect,” IEEE Transactions on Image Processing (TIP), vol. 17, no. 8, pp. 1323–1330, 2008.
+J. Sun, N.-N. Zheng, and H.-Y. Shum, “Stereo matching using belief propagation,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 25, no. 7, pp. 787–800, 2003.
+C. Shi, G. Wang, X. Yin, X. Pei, B. He, and X. Lin, “High-Accuracy Stereo Matching Based on Adaptive Ground Control Points,” IEEE Transactions on Image Processing (TIP), vol. 24, no. 4, pp. 1412–1423, 2015.
+Z. Zhang, “Microsoft Kinect Sensor and Its Effect,” IEEE Multimedia, vol. 19, no. 2, pp. 4–10, 2012.
+L. Yang, L. Zhang, H. Dong, A. Alelaiwi, and A. El Saddik, “Evaluating and Improving the Depth Accuracy of Kinect for Windows V2,” IEEE Sensors Journal, vol. 15, no. 8, pp. 4275–4285, 2015.
+J. Davis, R. Ramamoorthi, and S. Rusinkiewicz, “Spacetime Stereo: A Unifying Framework for Depth from Triangulation,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), vol. 2, 2003, pp. 359–366.
+D. Scharstein and R. Szeliski, “High-Accuracy Stereo Depth Maps Using Structured Light,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), vol. 1, 2003, pp. 195–202.
+S. B. Gokturk, H. Yalcin, and C. Bamji, “A Time-Of-Flight Depth Sensor – System Description, Issues and Solutions,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition Workshop (CVPRW), 2004, pp. 35–43.
+T. Whelan, R. F. Salas-Moreno, B. Glocker, A. J. Davison, and S. Leutenegger, “ElasticFusion: Real-Time Dense SLAM and Light Source Estimation,” International Journal of Robotics Research (IJRR), vol. 35, no. 14, pp. 1697–1716, 2016.
+P.-C. Wu, Y.-Y. Lee, H.-Y. Tseng, H.-I. Ho, M.-H. Yang, and S.-Y. Chien, “A Benchmark Dataset for 6DoF Object Pose Tracking,” in Proceedings of IEEE International Symposium on Mixed and Augmented Reality (ISMARAdjunct), 2017, pp. 186–191.
+P.-C. Wu, H.-Y. Tseng, M.-H. Yang, and S.-Y. Chien, “Direct Pose Estimation for Planar Objects,” Computer Vision and Image Understanding (CVIU), 2018.
+P.-C. Wu, R. Wang, K. Kin, C. Twigg, S. Han, M.-H. Yang, and S.-Y. Chien, “Dodecapen: Accurate 6dof tracking of a passive stylus,” in Proceedings of ACM Symposium on User Interface Software and Technology (UIST), 2017, pp. 365–374.
+F. S. Grassia, “Practical Parameterization of Rotations Using the Exponential Map,” Journal of Graphics Tools (JGT), vol. 3, no. 3, pp. 29–48, 1998.
+D. Eberly, “Euler Angle Formulas,” Geometric Tools, LLC, Tech. Rep., 2008.
+Wikipedia contributors, “Rodrigues’ rotation formula — Wikipedia, the free encyclopedia,” 2018, [Online; accessed 21-April-2018]. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Rodrigues rotation formula&oldid=822424523
+——, “Axis–angle representation — Wikipedia, the free encyclopedia,” 2017, [Online; accessed 21-April-2018]. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Axis angle representation&oldid=806689583
+E. Eade, “Lie Groups for 2D and 3D Transformations,” 2013, [Online; accessed 21-April-2018]. [Online]. Available: http://ethaneade.com/lie.pdf
+J. B. Kuipers, Quaternions and Rotation Sequences: A Primer with Applications to Orbits, Aerospace and Virtual Reality. Princeton University Press, 2011.
+J. Van Waveren, “From quaternion to matrix and back,” Id Software, Inc, 2005.
+J. Shotton, B. Glocker, C. Zach, S. Izadi, A. Criminisi, and A. Fitzgibbon, “Scene Coordinate Regression Forests for Camera Relocalization in RGBD Images,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013, pp. 2930–2937.
+H. Bay, A. Ess, T. Tuytelaars, and L. Van Gool, “Speeded-Up Robust Features (SURF),” Computer Vision and Image Understanding (CVIU), vol. 110, no. 3, pp. 346–359, 2008.
+P. F. Alcantarilla, A. Bartoli, and A. J. Davison, “KAZE Features,” in Proceedings of European Conference on Computer Vision (ECCV), 2012, pp. 214–227.
+P. F. Alcantarilla, J. Nuevo, T. Solutions, and A. Bartoli, “Fast Explicit Diffusion for Accelerated Features in Nonlinear Scale Spaces,” in Proceedings of British Machine Vision Conference (BMVC), 2013.
+J. Weickert, B. T. H. Romeny, and M. A. Viergever, “Efficient And Reliable Schemes For Nonlinear Diffusion Filtering,” IEEE Transactions on Image Processing (TIP), vol. 7, no. 3, pp. 398–410, 1998.
+E. Rosten and T. Drummond, “Machine Learning for High-Speed Corner Detection,” in Proceedings of European Conference on Computer Vision (ECCV), 2006, pp. 430–443.
+E. Mair, G. D. Hager, D. Burschka, M. Suppa, and G. Hirzinger, “Adaptive and Generic Corner Detection Based on the Accelerated Segment Test,” in Proceedings of European Conference on Computer Vision (ECCV), 2010, pp. 183–196.
+M. Calonder, V. Lepetit, C. Strecha, and P. Fua, “BRIEF: Binary Robust Independent Elementary Features,” in Proceedings of European Conference on Computer Vision (ECCV), 2010, pp. 778–792.
+S. Leutenegger, M. Chli, and R. Y. Siegwart, “BRISK: Binary Robust Invariant Scalable Keypoints,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2011, pp. 2548–2555.
+E. Rublee, V. Rabaud, K. Konolige, and G. Bradski, “ORB: An Efficient Alternative to SIFT or SURF,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2011, pp. 2564–2571.
+A. Alahi, R. Ortiz, and P. Vandergheynst, “FREAK: Fast Retina Keypoint,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012, pp. 510–517.
+X.-S. Gao, X.-R. Hou, J. Tang, and H.-F. Cheng, “Complete Solution Classification for the Perspective-Three-Point Problem,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 25, no. 8, pp. 930–943, 2003.
+L. Kneip, D. Scaramuzza, and R. Siegwart, “A Novel Parametrization of the Perspective-Three-Point Problem for a Direct Computation of Absolute Camera Position and Orientation,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011, pp. 2969–2976.
+T. Ke and S. I. Roumeliotis, “An Efficient Algebraic Solution to the Perspective-Three-Point Problem,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 7225–7233.
+O. Chum and J. Matas, “Matching with PROSAC-PROgressive SAmple Consensus,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2005, pp. 220–226.
+V. Fragoso, P. Sen, S. Rodriguez, and M. Turk, “EVSAC: Accelerating Hypotheses Generation by Modeling Matching Scores with Extreme Value Theory,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2013, pp. 2472–2479.
+C.-P. Lu, G. D. Hager, and E. Mjolsness, “Fast and Globally Convergent Pose Estimation from Video Images,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 22, no. 6, pp. 610–622, 2000.
+G. Schweighofer and A. Pinz, “Robust Pose Estimation from a Planar Target,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 28, no. 12, pp. 2024–2030, 2006.
+J. A. Hesch and S. I. Roumeliotis, “A Direct Least-Squares (DLS) Method for PnP,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2011, pp. 383–390.
+S. Li, C. Xu, and M. Xie, “A Robust O(n) Solution to the Perspective-n-Point Problem,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 34, no. 7, pp. 1444–1450, 2012.
+L. Kneip, H. Li, and Y. Seo, “UPnP: An Optimal O(n) Solution to the Absolute Pose Problem with Universal Applicability,” in Proceedings of European Conference on Computer Vision (ECCV), 2014, pp. 127–142.
+L. Ferraz, X. Binefa, and F. Moreno-Noguer, “Very Fast Solution to the PnP Problem with Algebraic Outlier Rejection,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014, pp. 501–508.
+——, “Leveraging Feature Uncertainty in the PnP Problem,” in Proceedings of British Machine Vision Conference (BMVC), 2014, pp. 1–13.
+W. Kabsch, “A Solution for the Best Rotation to Relate Two Sets of Vectors,” Acta Crystallographica, vol. 32, no. 5, pp. 922–923, 1976.
+Wikipedia contributors, “Singular-value decomposition — Wikipedia, the free encyclopedia,” 2018, [Online; accessed 26-April- 2018]. [Online]. Available: https://en.wikipedia.org/w/index.php?title= Singular-value decomposition&oldid=837622148
+B. D. Lucas and T. Kanade, “An Iterative Image Registration Technique with an Application to Stereo Vision,” in Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), vol. 81, 1981, pp. 674–679. 173
+E. W. Weisstein, “Normal Equation,” 2018, from MathWorld–A Wolfram Web Resource. [Online]. Available: http://mathworld.wolfram.com/ NormalEquation.html
+Wikipedia contributors, “Matrix calculus — Wikipedia, the free encyclopedia,” 2018, [Online; accessed 30-April-2018]. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Matrix calculus& oldid=838546380
+K. B. Petersen, M. S. Pedersen et al., “The Matrix Cookbook,” Technical University of Denmark, vol. 7, no. 15, p. 510, 2008.
+S. Baker and I. Matthews, “Lucas-Kanade 20 Years On: A Unifying Framework,” International Journal of Computer Vision (IJCV), vol. 56, no. 3, pp. 221–255, 2004.
+H.-Y. Shum and R. Szeliski, “Construction of Panoramic Image Mosaics with Global and Local Alignment,” Panoramic Vision, pp. 227–268, 2001.
+G. D. Hager and P. N. Belhumeur, “Efficient Region Tracking with Parametric Models of Geometry and Illumination,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 20, no. 10, pp. 1025–1039, 1998.
+S. Baker and I. Matthews, “Equivalence and Efficiency of Image Alignment Algorithms,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2001, pp. 1090–1097.
+S. Benhimane and E. Malis, “Homography-based 2D Visual Tracking and Servoing,” International Journal of Robotics Research (IJRR), vol. 26, no. 7, pp. 661–676, 2007.
+A. Crivellaro, P. Fua, and V. Lepetit, “Dense Methods for Image Alignment with an Application to 3D Tracking,” EPFL, Tech. Rep., 2014.
+P. J. Besl and N. D. McKay, “A Method for Registration of 3-D Shapes,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 14, no. 2, pp. 239–256, 1992.
+F. Pomerleau, F. Colas, R. Siegwart et al., “A Review of Point Cloud Registration Algorithms for Mobile Robotics,” Foundations and Trends® in Robotics, vol. 4, no. 1, pp. 1–104, 2015.
+Y. Chen and G. Medioni, “Object ModelLing by Registration of Multiple Range Images,” Image and Vision Computing, vol. 10, no. 3, pp. 145–155, 1992.
+J. Nocedal and S. J. Wright, “Numerical Optimization,” Springer, 2006.
+S. Rusinkiewicz and M. Levoy, “Efficient Variants of the ICP Algorithm,” in Proceedings of IEEE International Conference on 3-D Digital Imaging and Modeling (3DIM), 2001, pp. 145–152.
+H. Pottmann, S. Leopoldseder, and M. Hofer, “Registration Without ICP,” Computer Vision and Image Understanding (CVIU), vol. 95, no. 1, pp. 54–71, 2004.
+S. Hinterstoisser, S. Holzer, C. Cagniart, S. Ilic, K. Konolige, N. Navab, and V. Lepetit, “Multimodal Templates for Real-Time Detection of Texture-less Objects in Heavily Cluttered Scenes,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2011, pp. 858–865.
+A. Krull, E. Brachmann, F. Michel, M. Ying Yang, S. Gumhold, and C. Rother, “Learning Analysis-by-Synthesis for 6D Pose Estimation in RGB-D Images,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2015, pp. 954–962.
+A. Doumanoglou, R. Kouskouridas, S. Malassiotis, and T.-K. Kim, “Recovering 6D Object Pose and Predicting Next-Best-View in the Crowd,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 3583–3592.
+Y. Konishi, Y. Hanzawa, M. Kawade, and M. Hashimoto, “Fast 6D Pose Estimation from a Monocular Image Using Hierarchical Pose Trees,” in Proceedings of European Conference on Computer Vision (ECCV), 2016, pp. 398–413.
+A. Krull, E. Brachmann, S. Nowozin, F. Michel, J. Shotton, and C. Rother, “PoseAgent: Budget-Constrained 6D Object Pose Estimation via Reinforcement Learning,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), vol. 2, 2017.
+F. Michel, A. Kirillov, E. Brachmann, A. Krull, S. Gumhold, B. Savchynskyy, and C. Rother, “Global Hypothesis Generation for 6D Object Pose Estimation,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 462–471.
+P. Wohlhart and V. Lepetit, “Learning Descriptors for Object Recognition and 3D Pose Estimation,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015, pp. 3109–3118.
+R. Girshick, J. Donahue, T. Darrell, and J. Malik, “Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014, pp. 580–587.
+R. Girshick, “Fast R-CNN,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2015, pp. 1440–1448.
+S. Ren, K. He, R. Girshick, and J. Sun, “Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 39, no. 6, pp. 1137–1149, 2017.
+k. he, g. gkioxari, p. doll´ar, and r. girshick, “mask r-cnn,” in proceedings of ieee international conference on computer vision (iccv), 2017, pp. 2980–2988.
+J. Redmon, S. Divvala, R. Girshick, and A. Farhadi, “You Only Look Once: Unified, Real-Time Object Detection,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 779–788.
+J. Redmon and A. Farhadi, “YOLO9000: Better, Faster, Stronger,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 6517–6525.
+W. Liu, D. Anguelov, D. Erhan, C. Szegedy, S. Reed, C.-Y. Fu, and A. C. Berg, “SSD: Single Shot MultiBox Detector,” in Proceedings of European Conference on Computer Vision (ECCV), 2016, pp. 21–37.
+W. Kehl, F. Manhardt, F. Tombari, S. Ilic, and N. Navab, “SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 1521–1529.
+Y. Xiang, T. Schmidt, V. Narayanan, and D. Fox, “PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes,” in Proceedings of Robotics: Science and Systems (RSS), 2018.
+M. Rad and V. Lepetit, “BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2017, pp. 3848–3856.
+B. Tekin, S. N. Sinha, and P. Fua, “Real-Time Seamless Single Shot 6D Object Pose Prediction,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+M. Rad, M. Oberweger, and V. Lepetit, “Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+G. Pavlakos, X. Zhou, A. Chan, K. G. Derpanis, and K. Daniilidis, “6-DoF Object Pose from Semantic Keypoints,” in Proceedings of IEEE International Conference on Robotics and Automation (ICRA), 2017, pp. 2011– 2018.
+P.-C. Wu, J.-H. Lai, J.-L. Wu, and S.-Y. Chien, “Stable Pose Estimation with a Motion Model in Real-Time Application,” in Proceedings of IEEE International Conference on Multimedia and Expo (ICME), 2012, pp. 314– 319.
+P.-C. Wu, Y.-H. Tsai, and S.-Y. Chien, “Stable Pose Tracking from a Planar TargetWith an Analytical Motion Model in Real-Time Applications,” in Proceedings of IEEE International Workshop on Multimedia Signal Processing (MMSP), 2014, pp. 1–6.
+Z. Kukelova, M. Bujnak, and T. Pajdla, “Automatic Generator of Minimal Problem Solvers,” in Proceedings of European Conference on Computer Vision (ECCV), 2008, pp. 302–315.
+T. Collins and A. Bartoli, “Infinitesimal Plane-Based Pose Estimation,” International Journal of Computer Vision (IJCV), vol. 109, no. 3, pp. 252– 286, 2014.
+V. Lepetit, P. Fua et al., “Monocular Model-Based 3D Tracking of Rigid Objects: A Survey,” Foundations and Trends® in Computer Graphics and Vision, vol. 1, no. 1, pp. 1–89, 2005.
+Y. Park, V. Lepetit, and W. Woo, “Multiple 3D Object Tracking for Augmented Reality,” in Proceedings of IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2008, pp. 117–120.
+C. Schmaltz, B. Rosenhahn, T. Brox, and J. Weickert, “Region-Based Pose Tracking with Occlusions Using 3D Models,” vol. 23, no. 3, pp. 557–577, 2012.
+J. Hexner and R. R. Hagege, “2D-3D Pose Estimation of Heterogeneous Objects Using a Region Based Approach,” International Journal of Computer Vision (IJCV), vol. 118, no. 1, pp. 95–112, 2016.
+O. Korkalo and S. Kahn, “Real-Time Depth Camera Tracking with CAD Models and ICP,” Journal of Virtual Reality and Broadcasting (JVRB), vol. 13, no. 1, 2016.
+W. Kehl, F. Tombari, S. Ilic, and N. Navab, “Real-Time 3D Model Tracking in Color and Depth on a Single CPU Core,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 745–753.
+D. J. Tan, F. Tombari, S. Ilic, and N. Navab, “A Versatile Learning-Based 3D Temporal Tracker: Scalable, Robust, Online,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2015, pp. 693–701.
+D. J. Tan, N. Navab, and F. Tombari, “Looking Beyond the Simple Scenarios: Combining Learners and Optimizers in 3D Temporal Tracking,” IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 23, no. 11, pp. 2399–2409, 2017.
+M. Garon and J.-F. Lalonde, “Deep 6-DOF Tracking,” IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 23, no. 11, pp. 2410– 2418, 2017.
+Y. Li, G. Wang, X. Ji, Y. Xiang, and D. Fox, “DeepIM: Deep Iterative Matching for 6D Pose Estimation,” arXiv preprint arXiv:1804.00175, 2018.
+H. Kato and M. Billinghurst, “Marker Tracking and HMD Calibration for a Video-based Augmented Reality Conferencing System,” in Proceedings of IEEE and ACM International Workshop on Augmented Reality (IWAR), 1999, pp. 85–94.
+D. Wagner and D. Schmalstieg, “ARToolKitPlus for Pose Tracking on Mobile Devices,” in Proceedings of ComputerVisionWinterWorkshop (CVWW), 2007, pp. 139—-146.
+M. Fiala, “ARTag, a Fiducial Marker System Using Digital Techniques,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), vol. 2, 2005, pp. 590–596.
+——, “Designing highly reliable fiducial markers,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 32, no. 7, pp. 1317–1324, 2010.
+S. Garrido-Jurado, R. Mu˜noz-Salinas, F. J. Madrid-Cuevas, and M. J. Mar´ın- Jim´enez, “Automatic generation and detection of highly reliable fiducial markers under occlusion,” Pattern Recognition, vol. 47, no. 6, pp. 2280– 2292, 2014.
+S. Garrido-Jurado, R. Munoz-Salinas, F. J. Madrid-Cuevas, and R. Medina- Carnicer, “Generation of Fiducial Marker Dictionaries using Mixed Integer Linear Programming,” Pattern Recognition, vol. 51, pp. 481–491, 2016.
+S. Heo, J. Han, S. Choi, S. Lee, G. Lee, H.-E. Lee, S. Kim, W.-C. Bang, D. Kim, and C. Kim, “IrCube Tracker: An Optical 6DOF Tracker based on LED Directivity,” in Proceedings of ACM Symposium on User Interface Software and Technology (UIST), 2011, pp. 577–586.
+J. Han, S. Heo, H.-E. Lee, and G. Lee, “The IrPen: A 6-DOF Pen for Interaction with Tablet Computers,” IEEE Computer Graphics and Applications (CG&A), vol. 34, no. 3, pp. 22–29, 2014.
+R. Xiao, C. Harrison, K. D. Willis, I. Poupyrev, and S. E. Hudson, “Lumitrack: Low Cost, High Precision, High Speed Tracking with Projected m-Sequences,” in Proceedings of ACM Symposium on User Interface Software and Technology (UIST), 2013, pp. 3–12.
+V. Bubn´ık and V. Havran, “Light Chisel: 6DOF Pen Tracking,” Computer Graphics Forum (CGF), vol. 34, no. 2, pp. 325–336, 2015.
+J. Tompkin, S. Muff, J. McCann, H. Pfister, J. Kautz, M. Alexa, and W. Matusik, “Joint 5D Pen Input for Light Field Displays,” in Proceedings of ACM Symposium on User Interface Software and Technology (UIST), 2015, pp. 637–647.
+HTC, HTC Vive, Accessed: 2018-05-07. [Online]. Available: https: //www.vive.com/
+Oculus, Oculus Touch, Accessed: 2018-05-07. [Online]. Available: https://www.oculus.com/rift/
+Sony, PlayStation Move Motion Controller, Accessed: 2018-05-07. [Online]. Available: https://www.playstation.com/en-us/explore/accessories/ vr-accessories/playstation-move/
+Razer, Razer Hydra, Accessed: 2018-05-07. [Online]. Available: https://www2.razerzone.com/au-en/gaming-controllers/ razer-hydra-portal-2-bundle
+NaturalPoint, OptiTrack, Accessed: 2018-05-07. [Online]. Available: http://optitrack.com/
+Vicon, Vicon, Accessed: 2018-05-07. [Online]. Available: https: //www.vicon.com/
+Qualisys, Qualisys, Accessed: 2018-05-07. [Online]. Available: http: //www.qualisys.com/
+S. Lieberknecht, S. Benhimane, P. Meier, and N. Navab, “A Dataset and Evaluation Methodology for Template-Based Tracking Algorithms,” in Proceedings of IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2009, pp. 145–151.
+T. Hodan, P. Haluza, ˇ S. Obdrˇz´alek, J. Matas, M. Lourakis, and X. Zabulis, “TLESS: An RGB-D Dataset for 6D Pose Estimation of Texture-less Objects,” in Proceedings of IEEE Winter Conference on Applications of Computer Vision (WACV), 2017, pp. 880–888.
+S. Akkaladevi, M. Ankerl, C. Heindl, and A. Pichler, “Tracking Multiple Rigid Symmetric and Non-symmetric Objects in Real-Time Using Depth Data,” in Proceedings of IEEE International Conference on Robotics and Automation (ICRA), 2016, pp. 5644–5649.
+ReconstructMe, ReconstructMe, Accessed: 2018-05-07. [Online]. Available: http://reconstructme.net
+J.-Y. Bouguet, “Camera Calibration Toolbox for Matlab,” MATLAB, 2004.
+J. Shi and C. Tomasi, “Good Features to Track,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 1994, pp. 593–600.
+R. Hartley and A. Zisserman, Multiple View Geometry in Computer Vision, 2nd ed. Cambridge University Press, 2004.
+B. Glocker, J. Shotton, A. Criminisi, and S. Izadi, “Real-Time RGB-D Camera Relocalization via Randomized Ferns for Keyframe Encoding,” IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 21, no. 5, pp. 571–583, 2015.
+Y. Wu, J. Lim, and M.-H. Yang, “Object tracking benchmark,” vol. 37, no. 9, pp. 1834–1848, 2015.
+Z. Liu, X. Li, P. Luo, C.-C. Loy, and X. Tang, “Semantic Image Segmentation via Deep Parsing Network,” in Proceedings of IEEE International Conference on Computer Vision (ICCV), 2015, pp. 1377–1385.
+J. Long, E. Shelhamer, and T. Darrell, “Fully Convolutional Networks for Semantic Segmentation,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015, pp. 3431–3440.
+D. Oberkampf, D. F. DeMenthon, and L. S. Davis, “Iterative Pose Estimation Using Coplanar Points,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 1993, pp. 626–627.
+S. Li and C. Xu, “Efficient Lookup Table Based Camera Pose Estimation for Augmented Reality,” Computer Animation and Virtual Worlds, vol. 22, no. 1, pp. 47–58, 2011.
+S. Korman, D. Reichman, G. Tsur, and S. Avidan, “FasT-Match: Fast Affine Template Matching,” International Journal of Computer Vision (IJCV), vol. 121, no. 1, pp. 111–125, 2017.
+T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, Introduction to Algorithms. MIT Press, 2009.
+Wikipedia contributors, “Delone set—Wikipedia, the free encyclopedia,” 2017, [Online; accessed 8-May-2018]. [Online]. Available: https: //en.wikipedia.org/w/index.php?title=Delone set&oldid=795315991
+Y. S. Abu-Mostafa, M. Magdon-Ismail, and H.-T. Lin, Learning From Data. AMLBook, 2012.
+M. J. Kearns and U. V. Vazirani, An Introduction to Computational Learning Theory. MIT Press, 1994.
+G. Gallego and A. Yezzi, “A Compact Formula for the Derivative of a 3-D Rotation in Exponential Coordinates,” Journal of Mathematical Imaging and Vision (JMIV), vol. 51, no. 3, pp. 378–384, 2015.
+H.-Y. Tseng, P.-C. Wu, Y.-S. Lin, and S.-Y. Chien, “D-PET: A Direct 6 DoF Pose Estimation and Tracking System on Graphics Processing Units,” in Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS), 2017, pp. 1–4.
+H. Jegou, M. Douze, and C. Schmid, “Hamming Embedding and Weak Geometric Consistency for Large Scale Image Search,” in Proceedings of European Conference on Computer Vision (ECCV), 2008, pp. 304–317.
+T. Ha and W. Woo, “An Empirical Evaluation of Virtual Hand Techniques for 3D Object Manipulation in a Tangible Augmented Reality Environment,” in Proceedings of IEEE Symposium on 3D User Interfaces (3DUI), 2010, pp. 91–98.
+T. Petersen, “A Comparison of 2D-3D Pose Estimation Methods,” Aalborg University, 2008.
+J.-Y. Bouguet, “Pyramidal Implementation of the Lucas Kanade Feature Tracker: Description of the Algorithm,” Intel Corporation, vol. 5, no. 1-10, p. 4, 2001.
+N. Otsu, “A Threshold Selection Method from Gray-Level Histograms,” Automatica, vol. 11, no. 285-296, pp. 23–27, 1975.
+Wacom, Wacom, Accessed: 2018-05-12. [Online]. Available: https: //www.wacom.com/
+Anoto, Anoto, Accessed: 2018-05-12. [Online]. Available: http: //www.anoto.com/
+T. Grossman, K. Hinckley, P. Baudisch, M. Agrawala, and R. Balakrishnan, “Hover Widgets: Using the Tracking State to Extend the Capabilities of Pen-operated Devices,” in Proceedings of ACM CHI Conference on Human Factors in Computing Systems (CHI), 2006, pp. 861–870.
+S. Subramanian, D. Aliakseyeu, and A. Lucero, “Multi-layer Interaction for Digital Tables,” in Proceedings of ACM Symposium on User Interface Software and Technology (UIST), 2006, pp. 269–272.
+T. A. Galyean and J. F. Hughes, “Sculpting: An Interactive Volumetric Modeling Technique,” in ACM SIGGRAPH Computer Graphics, vol. 25, no. 4, 1991, pp. 267–274.
+Computer History Museum, Mapping Sutherland’s Volkswagen, Accessed: 2018-05-12. [Online]. Available: http://www.computerhistory.org/ revolution/computer-graphics-music-and-art/15/206/560
+P. Alliez, D. Cohen-Steiner, O. Devillers, B. L´evy, and M. Desbrun, “Anisotropic Polygonal Remeshing,” in ACM Transactions on Graphics (TOG), vol. 22, no. 3, 2003, pp. 485–493.
+H. Ishii and B. Ullmer, “Tangible Bits: Towards Seamless Interfaces Between People, Bits and Atoms,” in Proceedings of ACM CHI Conference on Human Factors in Computing Systems (CHI), 1997, pp. 234–241.
+R. Held, A. Gupta, B. Curless, and M. Agrawala, “3D Puppetry: A Kinectbased Interface for 3D Animation,” in Proceedings of ACM Symposium on User Interface Software and Technology (UIST), 2012, pp. 423–434.

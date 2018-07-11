@@ -1,0 +1,3 @@
+擴增實境;虛擬實境;六自由度;物體姿態;姿態估測;姿態追蹤
+
+Augmented Realty (AR);Virtual Reality (VR);Six Degrees of Freedom (6DoF);Object Pose;Pose Estimation;Pose Tracking
