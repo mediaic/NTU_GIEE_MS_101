@@ -66,8 +66,8 @@
 * 口試後收官：
     1. 依照口委建議修改論文
     1. 在老師將[**口試紀錄**](./doc/defense_record.docx)、[**口試委員審定書**](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)、[**學位論文考試評分表**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_thesis%20grade.doc)、[**學位考試紀錄表**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_oral%20record.doc)、**口試委員審查費領據**交給所辦、所辦確認沒問題後會請**所長**簽名，簽名完後的[**口試委員審定書**](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)需放在終版論文裡。
-    1. 完成最終版論文後，請至[**電子學位論文服務系統**](http://etds.lib.ntu.edu.tw/etdsystem/submit/submitLogin)上傳電子學位論文請圖書館審核，確認審核過後再印製論文（詳細流程可參考圖書館之[**畢業離校及論文繳交**](http://www.lib.ntu.edu.tw/node/103)）。除了論文本體之PDF檔之外，還需上傳[**大綱**](./doc/Outline.txt)、[**關鍵字**](./doc/Keyword.txt)、[**參考文獻**](./doc/Reference.txt)等文字檔；參考文獻文字檔中每條line代表一文獻，**不需再另加文獻編號**（上傳後[**論文系統**](http://www.airitilibrary.com/Search/alThesisbrowse?FirstID=U0001&type=Dissertations&changeColor=CU0001)會自動插入編號）。電子論文審核需兩個工作天。
-    1. 印製**紅底**燙金之**精裝版**論文終稿（圖書館需兩本，指導教授一本，實驗室一本，自己一本，因此最少需印**五本**），精裝版論文印製工作需要三個工作天（不含送件當日，不含假日）
+    1. 完成最終版論文後，請至[**電子學位論文服務系統**](http://etds.lib.ntu.edu.tw/etdsystem/submit/submitLogin)上傳電子學位論文請圖書館審核，確認審核過後再印製論文（詳細流程可參考圖書館之[**畢業離校及論文繳交**](http://www.lib.ntu.edu.tw/node/103)）。除了論文本體之PDF檔之外，還需上傳[**大綱**](./doc/Outline.txt)、[**關鍵字**](./doc/Keyword.txt)、[**參考文獻**](./doc/Reference.txt)等文字檔；參考文獻文字檔中每條line代表一文獻，**不需再另加文獻編號**（上傳後[**論文系統**](http://www.airitilibrary.com/Search/alThesisbrowse?FirstID=U0001&type=Dissertations&changeColor=CU0001)會自動插入編號）。**電子論文審核需兩個工作天**。
+    1. 印製**紅底**燙金之**精裝版**論文終稿（圖書館需兩本，指導教授一本，實驗室一本，自己一本，因此最少需印**五本**），**精裝版論文印製工作需要三個工作天**（不含送件當日，不含假日）
     1. 繳交兩本畢業論文至台大總圖
     1. 完成[**實驗室畢業生檢查清單**](./doc/mediaic_check_list.docx)後交與老師
     1. 完成[**電子所畢業生離校手續單**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g21_leave.doc)後交至所辦
